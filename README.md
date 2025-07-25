@@ -9,4 +9,4 @@ ankit kumar padhi(23cse290)
 
 
 PPT:
-[AI chatbox for Rural Area.pptx](https://github.com/user-attachments/files/21416335/AI.chatbox.for.Rural.Area.pptx)
+[AI chatbox for Rural Area.pptx](https://docs.google.com/presentation/d/1AUzQdmR942MgD-Ei9R7RDqhOSDvhJ85n/edit?usp=drivesdk&ouid=116368051895731583876&rtpof=true&sd=true)
